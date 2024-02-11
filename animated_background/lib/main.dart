@@ -37,8 +37,9 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   List<ColorBounce> colorsBounceable = <ColorBounce>[
-    ColorBounce(255, 0, 126),
+    ColorBounce(126, 0, 255),
     ColorBounce(0, 126, 255),
+    ColorBounce(126, 255, 255),
   ];
 
   List<Color> colors = List.empty();
