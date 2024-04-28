@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760398092419",
+    "project_id": "degnekcidb",
+    "storage_bucket": "degnekcidb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760398092419:android:8ee7ab3d61f66b80ad63b6",
+        "android_client_info": {
+          "package_name": "com.example.blog4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx-LKKW-DF_2HEBMhBLydJ1V17ZkwlB-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
